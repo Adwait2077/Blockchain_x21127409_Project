@@ -17,7 +17,7 @@ bignumber
     
 ethereumjs-tx
 
-    npm install etehereumjs-tx
+    npm install ethereumjs-tx
    
 dotenv
 
